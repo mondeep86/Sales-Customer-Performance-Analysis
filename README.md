@@ -66,7 +66,7 @@ The dataset is a fictional sample dataset provided for analysis and learning pur
 - `tableau/` – Tableau dashboard workbooks
 - `reports/` – Business insights report and SQL analysis exports
 - `screenshots/` – Project charts and dashboard screenshots
-- `sql/` – SQL query files (to be added)
+- `sql/` – SQL query files 
 
 ## Project Type
 Personal Data Analytics Portfolio Project

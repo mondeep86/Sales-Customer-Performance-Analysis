@@ -72,3 +72,9 @@ The dataset is a fictional sample dataset provided for analysis and learning pur
 Personal Data Analytics Portfolio Project
 
 **Developed by:** Mondeep Paul
+
+## Interactive Tableau Dashboard
+
+View the interactive dashboard here:
+
+[Sales & Customer Performance Dashboard](https://public.tableau.com/app/profile/mondeep.paul/viz/Sales_Customer_Performance_Dashboard/SalesPerformanceDashboard?publish=yes)

@@ -78,3 +78,11 @@ Personal Data Analytics Portfolio Project
 View the interactive dashboard here:
 
 [Sales & Customer Performance Dashboard](https://public.tableau.com/app/profile/mondeep.paul/viz/Sales_Customer_Performance_Dashboard/SalesPerformanceDashboard?publish=yes)
+
+## Project Files
+
+- [Python Analysis Notebook](python/day01_setup.ipynb)
+- [SQL Analysis Queries](sql/sales_analysis.sql)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/mondeep.paul/viz/Sales_Customer_Performance_Dashboard/SalesPerformanceDashboard?publish=yes)
+- [Project Reports](reports/)
+- [Screenshots](screenshots/)

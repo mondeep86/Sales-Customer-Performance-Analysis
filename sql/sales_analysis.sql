@@ -1,4 +1,3 @@
-
 -- Project: Sales & Customer Performance Analytics
 -- Dataset: Tableau Sample Superstore
 -- Database: SQLite
